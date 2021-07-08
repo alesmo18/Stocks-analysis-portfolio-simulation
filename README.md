@@ -1,5 +1,9 @@
 # Stocks-analysis-portfolio-simulation
 This project deals with a portfolio investment simulation. In this project I've used 6 stocks from differents markets.
+> Implementation language: R
+
+> Software: RStudio Version 1.4.1106
+
 Project phases:
 - Data summary: an introduction with the chosen financial instruments and motivations (e.g. a set of relevant news).
 - Descriptive analytics: a section organized in different subsections summarizing the main results from exploratory
